@@ -1,8 +1,6 @@
 # 🚀 Leetcode Grind — Day 06
 
-**Date:** 20 Aug 2025  
-**Duration:** 3:00 PM – 5:00 PM  
-**Target:** 45 Problems (20 carry-forward + 25 new)  
+ 
 **Focus:** Two Pointers, Sliding Window, Prefix Sum, Monotonic Stack  
 
 ---
